@@ -1,0 +1,108 @@
+[
+
+    {
+        "id": 1,
+        "name": "Adidas",
+        "price": 240,
+        "image": "/image/10.jpg",
+        "description": " Boots type : Adidas, \n Color : Silver Black, \n Brand : original, \n Industry source : USA, \n Date of issue : 2017, The most used team for this boots : Real Madrid. "
+    },
+    {
+        "id": 2,
+        "name": "Adidas",
+        "price": 360,
+        "image": "/image/11.jpg",
+        "description": " Boots type : Adidas, \n Color : Blue of Black, \n Brand : original, \n Industry source : Argentina, \n Date of issue : 2015, The most used team for this boots : paris. "
+
+    },
+    {
+        "id": 3,
+        "name": "Adidas",
+        "price": 170,
+        "image": "/image/12.jpg",
+        "description": " Boots type : Adidas, \n Color : Black, \n Brand : original, \n Industry source : Portgal, \n Date of issue : 2014, The most used team for this boots : Man United. "
+
+    },
+    {
+        "id": 4,
+        "name": "Adidas",
+        "price": 230,
+        "image": "/image/13.jpg",
+        "description": " Boots type : Adidas, \n Color : Silver Green, \n Brand : original, \n Industry source : Argentina, \n Date of issue : 2016, The most used team for this boots : Barcalona. "
+
+
+    },
+    {
+        "id": 5,
+        "name": "Adidas",
+        "price": 90,
+        "image": "/image/14.jpg",
+        "description": " Boots type : Adidas, \n Color : Silver of white, \n Brand : original, \n Industry source : USA, \n Date of issue : 2017, The most used team for this boots : Juventus. "
+
+
+
+    },
+    {
+        "id": 6,
+        "name": "Adidas",
+        "price": 90,
+        "image": "/image/15.jpg",
+        "description": " Boots type : Adidas, \n Color : Black of White, \n Brand : original, \n Industry source : USA, \n Date of issue : 2017, The most used team for this boots : Chelsea, tottenham. "
+
+
+    },
+    {
+        "id": 7,
+        "name": "Adidas",
+        "price": 290,
+        "image": "/image/16.jpg",
+        "description": " Boots type : Adidas, \n Color : Orange of Black, \n Brand : original, \n Industry source : Germany, \n Date of issue : 2019, The most used team for this boots : licter City, Aston Villa. "
+
+
+    }, 
+    {
+        "id": 8,
+        "name": "Adidas",
+        "price": 190,
+        "image": "/image/17.jpg",
+        "description": " Boots type : Adidas, \n Color : Orange, \n Brand : original, \n Industry source : Brazil, \n Date of issue : 2017, The most used team for this boots : Lion. "
+
+
+    },
+    {
+        "id": 9,
+        "name": "Adidas",
+        "price": 120,
+        "image": "/image/18.jpg",
+        "description": " Boots type : Adidas, \n Color : Dark Blue of Black, \n Brand : original, \n Industry source : England, \n Date of issue : 2016, The most used team for this boots : Atlitco Madrid. "
+
+    },
+    {
+        "id": 10,
+        "name": "Adidas",
+        "price": 100,
+        "image": "/image/19.jpg",
+        "description": " Boots type : Adidas, \n Color : Green, \n Brand : original, \n Industry source : Egypt, \n Date of issue : 2017, The most used team for this boots : Everton. "
+
+    },
+    {
+        "id": 11,
+        "name":  "Adidas",
+        "price": 200,
+        "image": "/image/20.jpg",
+        "description": " Boots type : Adidas, \n Color : white, \n Brand : original, \n Industry source : France, \n Date of issue : 2018, The most used team for this boots : Arsenal. "
+
+    },
+    {
+        "id": 12,
+        "name": "Adidas",
+        "price": 140,
+        "image": "/image/21.jpg",
+        "description": " Boots type : Adidas, \n Color : Red of Black, \n Brand : original, \n Industry source : USA, \n Date of issue : 2018, The most used team for this boots : Man City, Bayren. "
+
+    }
+
+
+
+]
+
